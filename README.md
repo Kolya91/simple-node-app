@@ -1,2 +1,2 @@
 # simple-node-app
-NodeJS application (express, mongodb, mogoose, jade)
+NodeJS application (express, mongodb, mognoose, jade)
