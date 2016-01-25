@@ -1,0 +1,14 @@
+{
+  "ignore": [
+    "nodemon.json"
+  ],
+  "verbose": true,
+  "watch": [
+    "*"
+  ],
+  "ext": "js json",
+  "env": {
+    "NODE_ENV": "development",
+    "NODE_PATH": "."
+  }
+}
